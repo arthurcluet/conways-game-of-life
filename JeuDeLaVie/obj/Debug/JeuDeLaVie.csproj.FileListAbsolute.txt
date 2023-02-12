@@ -1,0 +1,17 @@
+C:\Users\Arthur\source\repos\JeuDeLaVie\bin\Debug\JeuDeLaVie.exe.config
+C:\Users\Arthur\source\repos\JeuDeLaVie\bin\Debug\JeuDeLaVie.exe
+C:\Users\Arthur\source\repos\JeuDeLaVie\bin\Debug\JeuDeLaVie.pdb
+C:\Users\Arthur\source\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.csprojAssemblyReference.cache
+C:\Users\Arthur\source\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.exe
+C:\Users\Arthur\source\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.pdb
+C:\Users\Arthur\source\repos\JeuDeLaVie\bin\Debug\EsilvGui.dll
+C:\Users\Arthur\source\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.CopyComplete
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\bin\Debug\JeuDeLaVie.exe.config
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\bin\Debug\JeuDeLaVie.exe
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\bin\Debug\JeuDeLaVie.pdb
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\bin\Debug\EsilvGui.dll
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.AssemblyReference.cache
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.CoreCompileInputs.cache
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.csproj.CopyComplete
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.exe
+C:\Users\arthur\Desktop\OLD VS PROJECTS\repos\JeuDeLaVie\obj\Debug\JeuDeLaVie.pdb
